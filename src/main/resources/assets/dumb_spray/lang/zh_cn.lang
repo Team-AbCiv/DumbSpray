@@ -7,3 +7,6 @@ lingering_potion.effect.regular_dumbness=滞留型变傻药水
 lingering_potion.effect.super_dumbness=滞留型超级变傻药水
 splash_potion.effect.regular_dumbness=喷溅型变傻药水
 splash_potion.effect.super_dumbness=喷溅型超级变傻药水
+
+config.dumb_spray.enable_brewing_recipes=启用默认酿造配方
+config.dumb_spray.enable_brewing_recipes.tooltip=该选项控制默认的变傻药水配方。若不需要默认配方，可直接将本选项设定为 false。
