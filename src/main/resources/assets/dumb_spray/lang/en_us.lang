@@ -1,0 +1,12 @@
+effect.dumb_spray.regular_dumbness=Instant Dumbness
+effect.dumb_spray.super_dumbness=Instant Super Dumbness
+
+potion.effect.regular_dumbness=Potion of Dumbness
+potion.effect.super_dumbness=Potion of Super Dumbness
+lingering_potion.effect.regular_dumbness=Lingering Potion of Dumbness
+lingering_potion.effect.super_dumbness=Lingering Potion of Super Dumbness
+splash_potion.effect.regular_dumbness=Splash Potion of Dumbness
+splash_potion.effect.super_dumbness=Splash Potion of Super Dumbness
+
+config.dumb_spray.enable_brewing_recipes=Enable Default Brewing Recipes
+config.dumb_spray.enable_brewing_recipes.tooltip=Add default brewing recipes for two dumbness potions from this mod. Set it to false if you want to remove those defualt recipes.

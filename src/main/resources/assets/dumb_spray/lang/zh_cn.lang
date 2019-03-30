@@ -1,0 +1,9 @@
+effect.dumb_spray.regular_dumbness=瞬间变傻喷雾
+effect.dumb_spray.super_dumbness=超级瞬间变傻喷雾
+
+potion.effect.regular_dumbness=变傻药水
+potion.effect.super_dumbness=超级变傻药水
+lingering_potion.effect.regular_dumbness=滞留型变傻药水
+lingering_potion.effect.super_dumbness=滞留型超级变傻药水
+splash_potion.effect.regular_dumbness=喷溅型变傻药水
+splash_potion.effect.super_dumbness=喷溅型超级变傻药水

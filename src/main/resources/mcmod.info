@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "dumb_spray",
+    "name": "Dumb Spray",
+    "description": "Add a new type of potion that makes non-player living entities dumb.",
+    "version": "${version}",
+    "url" : "https://github.com/Team-AbCiv/DumbSpray",
+    "authorList": [ "3TUSK" ],
+    "logoFile": "logo.png"
+  }
+]
