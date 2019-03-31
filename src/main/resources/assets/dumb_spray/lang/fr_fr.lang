@@ -1,0 +1,12 @@
+effect.dumb_spray.regular_dumbness=Débilité instantanée
+effect.dumb_spray.super_dumbness=Super débilité instantanée
+
+potion.effect.regular_dumbness=Potion de débilité
+potion.effect.super_dumbness=Potion de super débilité
+lingering_potion.effect.regular_dumbness=Potion de débilité persistante
+lingering_potion.effect.super_dumbness=Potion de super débilité persistante
+splash_potion.effect.regular_dumbness=Potion de débilité jetable
+splash_potion.effect.super_dumbness=Potion de super débilité jetable
+
+config.dumb_spray.enable_brewing_recipes=Activer les recettes d'alchimie par défaut
+config.dumb_spray.enable_brewing_recipes.tooltip=Ajoute des recettes par défaut aux 2 potions du mod. Mettez à false pour les désactiver.
