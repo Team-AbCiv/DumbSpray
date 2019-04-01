@@ -10,3 +10,7 @@ splash_potion.effect.super_dumbness=喷溅型超级变傻药水
 
 config.dumb_spray.enable_brewing_recipes=启用默认酿造配方
 config.dumb_spray.enable_brewing_recipes.tooltip=该选项控制默认的变傻药水配方。若不需要默认配方，可直接将本选项设定为 false。
+config.dumb_spray.enable_dumb_command=启用变傻命令
+config.dumb_spray.enable_dumb_command.tooltip=该选项控制一个令目标实体变傻的命令，相当于对其使用普通变傻喷雾。不喜欢的话可直接将本选项设定为 false。
+
+commands.dumb_spray.dumb.usage=/dumb <目标>
