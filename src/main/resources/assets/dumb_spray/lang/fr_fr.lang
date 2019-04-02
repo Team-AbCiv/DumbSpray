@@ -10,3 +10,7 @@ splash_potion.effect.super_dumbness=Potion de super débilité jetable
 
 config.dumb_spray.enable_brewing_recipes=Activer les recettes d'alchimie par défaut
 config.dumb_spray.enable_brewing_recipes.tooltip=Ajoute des recettes par défaut aux 2 potions du mod. Mettez à false pour les désactiver.
+config.dumb_spray.enable_dumb_command=Activer la commande dumb
+config.dumb_spray.enable_dumb_command.tooltip=Ajoute une commande qui rends toutes les entités ciblées débiles (comme avec une potion de débilité). Mettez à false pour la désactiver.
+
+commands.dumb_spray.dumb.usage=/dumb <cible>
