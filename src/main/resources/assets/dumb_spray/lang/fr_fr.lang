@@ -7,6 +7,12 @@ lingering_potion.effect.regular_dumbness=Potion de débilité persistante
 lingering_potion.effect.super_dumbness=Potion de super débilité persistante
 splash_potion.effect.regular_dumbness=Potion de débilité jetable
 splash_potion.effect.super_dumbness=Potion de super débilité jetable
+tipped_arrow.effect.regular_dumbness=Flèche de débilité
+tipped_arrow.effect.super_dumbness=Flèche de super débilité
 
 config.dumb_spray.enable_brewing_recipes=Activer les recettes d'alchimie par défaut
 config.dumb_spray.enable_brewing_recipes.tooltip=Ajoute des recettes par défaut aux 2 potions du mod. Mettez à false pour les désactiver.
+config.dumb_spray.enable_dumb_command=Activer la commande dumb
+config.dumb_spray.enable_dumb_command.tooltip=Ajoute une commande qui rends toutes les entités ciblées débiles (comme avec une potion de débilité). Mettez à false pour la désactiver.
+
+commands.dumb_spray.dumb.usage=/dumb <cible>
