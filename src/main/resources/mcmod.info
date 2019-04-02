@@ -6,6 +6,7 @@
     "version": "${version}",
     "url" : "https://github.com/Team-AbCiv/DumbSpray",
     "authorList": [ "3TUSK" ],
-    "logoFile": "logo.png"
+    "credits": "Many thanks to whoever originally created this meme pic which inspired me to make this mod.",
+    "logoFile": "banner.png"
   }
 ]

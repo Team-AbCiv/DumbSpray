@@ -11,4 +11,10 @@ public final class DumbSprayConfig {
     @Config.RequiresMcRestart
     public static boolean addBrewingRecipes = true;
 
+    @Config.Comment("Set it to false if you dislike the \"global dumb command\".")
+    @Config.LangKey("config.dumb_spray.enable_dumb_command")
+    @Config.Name("EnableDumbCommand")
+    @Config.RequiresMcRestart
+    public static boolean enableDumbCommand = true;
+
 }

@@ -27,10 +27,13 @@ public final class RegularDumbPotion extends Potion {
     @Override
     public final void affectEntity(@Nullable Entity source, @Nullable Entity indirectSource, EntityLivingBase affectedEntity, int amplifier, double health) {
         if (affectedEntity instanceof EntityLiving) {
-            EntityLiving target = (EntityLiving) affectedEntity;
-            target.tasks.taskEntries.clear();
-            target.targetTasks.taskEntries.clear();
-            target.tasks.addTask(233, new EntityAILookIdle(target));
+            makeTargetDumb((EntityLiving) affectedEntity);
         }
+    }
+
+    static void makeTargetDumb(EntityLiving target) {
+        target.tasks.taskEntries.clear();
+        target.targetTasks.taskEntries.clear();
+        target.tasks.addTask(233, new EntityAILookIdle(target));
     }
 }
