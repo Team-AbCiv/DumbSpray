@@ -17,7 +17,7 @@ import net.minecraftforge.oredict.OreIngredient;
 
 import java.util.Objects;
 
-@Mod(modid = "dumb_spray", name = "DumbSpray", version = "0.1.0", useMetadata = true)
+@Mod(modid = "dumb_spray", name = "DumbSpray", version = "1.0.0", useMetadata = true)
 @Mod.EventBusSubscriber
 public final class DumbSprayMod {
 
